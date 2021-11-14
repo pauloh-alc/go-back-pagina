@@ -9,11 +9,11 @@
 - CSS3
 - FlexBox
 
-| Pastas | files      |  Link de acesso     |
+| Pastas / files      |  Link de acesso     |
 | ------------------- | ------------------- |
-|    index.html       |  [acesse](https://google.com.br) |
-|       css           |  [acesse](https://google.com.br) |
-|       img           |  [acesse](https://google.com.br) |
+|    index.html       |  [acesse](https://github.com/pauloh-alc/go-back-pagina/blob/main/index.html) |
+|       css           |  [acesse](https://github.com/pauloh-alc/go-back-pagina/tree/main/css) |
+|       img           |  [acesse](https://github.com/pauloh-alc/go-back-pagina/tree/main/img) |
 
 ## Autor
 Paulo Henrique Diniz de Lima Alencar.
